@@ -1,0 +1,22 @@
+.jumbotron {
+  background-color: #93F9EE;
+  color: #437AA0;
+  text-align: center;
+}
+
+#triangle {
+  background-color: #D0B7F6;
+  color: #47227E;
+  padding: 20px;
+}
+
+.btn {
+  background-color: #F376CD;
+  color: #7E2C65;
+  width: 100%;
+  margin: 10px 0px;
+}
+
+.form-group {
+  margin: 10px 0px;
+}
